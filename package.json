@@ -58,7 +58,7 @@
   ],
   "dependencies": {
     "commander": "^14.0.2",
-    "eslint-plugin-prettier": "^5.5.4"
+    "eslint-plugin-prettier": "^5.5.5"
   },
   "devDependencies": {
     "@types/jest": "^30.0.0",
