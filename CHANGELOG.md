@@ -6,7 +6,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 <!-- 
 
-# 1.0.0 (2023-04-07)
+# 1.0.0 (2026-01-21)
 
 ## Breaking changes
 

@@ -116,7 +116,9 @@ dist
 .pnp.*
 
 # Compiled code
-lib/
+/lib/
 .DS_Store
 .env
 .vscode
+
+.dev
