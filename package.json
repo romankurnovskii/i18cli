@@ -1,6 +1,6 @@
 {
   "name": "i18cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Translation cleanup and maintenance tools for i18next",
   "license": "MIT",
   "type": "module",
