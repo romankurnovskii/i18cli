@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "Translation cleanup and maintenance tools for i18next",
   "license": "MIT",
+  "packageManager": "pnpm@12.18.0",
   "type": "module",
   "sideEffects": false,
   "bin": {
