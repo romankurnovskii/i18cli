@@ -5,8 +5,8 @@
 
 version: 2
 updates:
-  # Enable version updates for npm
-  - package-ecosystem: 'npm'
+  # Enable version updates for pnpm
+  - package-ecosystem: 'pnpm'
     directory: '/'
     versioning-strategy: increase
     schedule:
