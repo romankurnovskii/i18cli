@@ -24,7 +24,7 @@
     "release": "changeset publish"
   },
   "dependencies": {
-    "commander": "^14.0.2"
+    "commander": "^15.1.0"
   },
   "devDependencies": {
     "eslint-plugin-prettier": "^5.5.4",
